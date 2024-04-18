@@ -42,7 +42,8 @@ As of now, the project is a work in progress. The code is being actively develop
 
 | With Discount | Without Discount |
 |---------------|------------------|
-|![image](https://github.com/RLN25/Billing-System/assets/95609283/a3e9f191-3fdb-4efc-a111-67599ae31122) |![image](https://github.com/RLN25/Billing-System/assets/95609283/2e8ad554-0aa1-4bb3-a813-b27f5c7f919d)
+|![image](https://github.com/RLN25/Billing-System/assets/95609283/a3e9f191-3fdb-4efc-a111-67599ae31122) |![image](https://github.com/RLN25/Billing-System/assets/95609283/65249c60-bc92-495c-a9bd-b508126495c2)
+
 
  
 
