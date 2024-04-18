@@ -44,7 +44,7 @@ As of now, the project is a work in progress. The code is being actively develop
 |---------------|------------------|
 |![image](https://github.com/RLN25/Billing-System/assets/95609283/a5d2bf83-58a2-411e-8f9e-29a77a465b68) |![image](https://github.com/RLN25/Billing-System/assets/95609283/2c903d66-cb15-46d3-a3ae-bcb1202b29b9)
 
- !
+ 
 
 Here are two sample screenshots of the output, one with a discount applied and one without. These illustrate how your billing system looks and functions.
 
