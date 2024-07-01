@@ -28,15 +28,6 @@ Welcome to the "RLN Groceries" project, a Python-based billing system. This proj
 
 - **Loyalty Program**: The project plans to include a loyalty program, rewarding loyal customers with points based on their total bill amount, encouraging repeat business.
 
-## Current Status
-
-As of now, the project is a work in progress. The code is being actively developed, and additional features and improvements are planned. Here's the current state of the project:
-
-- The project provides a foundation for creating bills, handling itemized lists, and basic discount calculations.
-
-- User interfaces and advanced features are still under development.
-
-- We encourage contributions and suggestions to help enhance the project and make it a more robust billing solution.
 
 ## Screenshots
 
